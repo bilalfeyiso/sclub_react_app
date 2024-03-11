@@ -1,6 +1,6 @@
 # This app is for tennis club website
 ## this is build using React.js with Node.js
-## It has login and sign in auths.
+## It has login and sign up auths.
 
 ![mw7](https://github.com/bilalfeyiso/sclub_react_app/assets/146771733/83393555-fdd5-4114-8330-4ab60a3fd13a)
 ![mw9](https://github.com/bilalfeyiso/sclub_react_app/assets/146771733/6f024dd5-5f21-4cea-b4cd-e568b2c2cfca)
